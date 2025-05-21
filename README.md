@@ -34,13 +34,13 @@ More Examples:
 
 See how a minor change to your branch name style can make you a better programmer.
 
-Format: `<type>/#<issueNumber>-<alias>`
+Format: `<type>/<issueNumber>-<alias>`
 
 
 ## Example
 
 ```
-feature/#1-init
+feature/1-init
 ^------^   ^---^
 |          |
 |          +---> issue's keyword

@@ -50,7 +50,7 @@ feature/1-init
 
 More Examples:
 
-- `feat` or `feature`: (new feature for the user, not a new feature for build script)
+- `feature`: (new feature for the user, not a new feature for build script)
 - `fix`: (bug fix for the user, not a fix to a build script)
 - `docs`: (changes to the documentation)
 - `style`: (formatting, missing semi colons, etc; no production code change)
